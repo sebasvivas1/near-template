@@ -2,14 +2,12 @@
 /* eslint-disable import/no-extraneous-dependencies */
 
 module.exports = {
-  content: {
-    content: [
-      './pages/**/*.{js,jsx,ts,tsx}',
-      './components/**/*.{js,jsx,ts,tsx}',
-      './context/**/*.{js,jsx,ts,tsx}',
-    ],
-    // defaultExtractor: (content) => content.match(/[\w-/:]+(?<!:)/g) || [],
-  },
+  content: [
+    './pages/**/*.{js,jsx,ts,tsx}',
+    './components/**/*.{js,jsx,ts,tsx}',
+    './context/**/*.{js,jsx,ts,tsx}',
+  ],
+  // defaultExtractor: (content) => content.match(/[\w-/:]+(?<!:)/g) || [],
   darkMode: 'media', // 'media' or 'class'
   theme: {
     screens: {
