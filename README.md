@@ -73,4 +73,4 @@ As you can see in `package.json`:
 1. builds & deploys smart contract to NEAR TestNet
 
 Author:
-Sebastian Vivas - mzterdox.near
+@sebasvivas1 - mzterdox.near
