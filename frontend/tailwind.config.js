@@ -2,7 +2,7 @@
 /* eslint-disable import/no-extraneous-dependencies */
 
 module.exports = {
-  purge: {
+  content: {
     content: [
       './pages/**/*.{js,jsx,ts,tsx}',
       './components/**/*.{js,jsx,ts,tsx}',
